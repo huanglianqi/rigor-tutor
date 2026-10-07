@@ -1,0 +1,6 @@
+# 本机 / 工具链产物，不进仓库
+.DS_Store
+.tooling/
+__pycache__/
+*.pyc
+node_modules/
