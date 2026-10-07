@@ -1,6 +1,6 @@
 # rigor-tutor
 
-**严谨答疑技能**（问答型教学）。与引导型 [the-tutor](https://github.com/huanglianqi/the-tutor) 互补：
+**严谨答疑技能**（问答型教学）。与引导型 `the-tutor` 互补：
 
 | | the-tutor（引导型） | rigor-tutor（问答型） |
 |---|---|---|
